@@ -12,6 +12,10 @@
 
 </div>
 
+![jooooooowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooooooowon&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooooooowon&layout=compact)
+
 
 
 <div align="center">
